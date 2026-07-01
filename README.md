@@ -26,7 +26,7 @@ A classical unsupervised learning project :D Im using Principal Component Analys
 - Digitally mature organizations with strong internal capabilities. Selective opportunities for advanced AI solutions.
 
 ## Full Analysis
-See **PCA_KMK.pdf** for complete code, visualizations and model discussion.
+See [PCA_KMK.pdf](PCA_KMK.pdf) for complete code, visualizations and model discussion.
 
 ## Tools
 R · tidyverse · princomp · factoextra · ggplot2 · dplyr · flextable · Quarto
